@@ -1,0 +1,6 @@
+echo "# project-ERP" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/PBONVIL/project-ERP.git
+git push -u origin master
